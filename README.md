@@ -72,8 +72,8 @@ A custom-built interactive Power BI dashboard that summarizes all major insights
 
 *Vivek Arunrao Vaidya*  
 🎓 Aspiring Data Analyst | Python & Power BI Enthusiast  
-📧 Email: vivekvaidya  
-🔗 GitHub: [github.com/your-github-username](https://github.com/your-github-username)
+📧 Email: vivekvaidya141@gmail.com 
+
 
 ---
 
